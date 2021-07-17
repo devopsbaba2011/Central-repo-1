@@ -1,4 +1,10 @@
 This is 2nd update
 this is 3rd update from github 
+<<<<<<< HEAD
 what is changes
 this is 4th update from git
+=======
+5th update just launch
+>>>>>>> 1ecbb36de33de3eb678479c45c8a3fac750728e7
+this is 6th update, hope it will uplode successfully.
+7th update also launch, do not disclose.
